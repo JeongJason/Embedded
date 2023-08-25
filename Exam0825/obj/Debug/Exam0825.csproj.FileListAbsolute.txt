@@ -1,0 +1,10 @@
+C:\Users\jewon\Desktop\C_Workspace\Exam0825\obj\Debug\Exam0825.csproj.AssemblyReference.cache
+C:\Users\jewon\Desktop\C_Workspace\Exam0825\obj\Debug\Exam0825.Properties.Resources.resources
+C:\Users\jewon\Desktop\C_Workspace\Exam0825\obj\Debug\Exam0825.csproj.GenerateResource.cache
+C:\Users\jewon\Desktop\C_Workspace\Exam0825\obj\Debug\Exam0825.csproj.CoreCompileInputs.cache
+C:\Users\jewon\Desktop\C_Workspace\Exam0825\bin\Debug\Exam0825.exe.config
+C:\Users\jewon\Desktop\C_Workspace\Exam0825\bin\Debug\Exam0825.exe
+C:\Users\jewon\Desktop\C_Workspace\Exam0825\bin\Debug\Exam0825.pdb
+C:\Users\jewon\Desktop\C_Workspace\Exam0825\obj\Debug\Exam0825.Form1.resources
+C:\Users\jewon\Desktop\C_Workspace\Exam0825\obj\Debug\Exam0825.exe
+C:\Users\jewon\Desktop\C_Workspace\Exam0825\obj\Debug\Exam0825.pdb
